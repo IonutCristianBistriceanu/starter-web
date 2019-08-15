@@ -14,3 +14,6 @@ This is a simple web project an server local filyt sistem
 
 
 ##How to contribute
+
+###Copyright
+2019 Git.Training
