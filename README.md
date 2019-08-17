@@ -2,7 +2,7 @@
 This is a simple website
 
 ##Introduction
-This is examlle is to show didfferent parts of the git repository and varuous cvommands using a web project.
+This is examlle is to show didfferent parts of the git repository and varuous cvommands using a web project. Adding a line for rebasing example.
 
 
 ## Purpose
