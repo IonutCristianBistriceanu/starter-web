@@ -3,7 +3,7 @@ This is a simple website
 
 ##Introduction
 This is examlle is to show didfferent parts of the git repository and varuous cvommands using a web project. Adding a line for rebasing example.
-More changes from myfeature branch.
+More changes from myfeature branch. Emergency fix
 
 
 ## Purpose
