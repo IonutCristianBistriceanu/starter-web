@@ -18,4 +18,4 @@ This is a simple web project an server local filyt sistem
 Please ask for information
 
 ###Copyright
-2019 Git.Training
+2019 Git.Training. All rights reserved.
